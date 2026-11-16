@@ -101,7 +101,7 @@ Different classification algorithms were implemented and compared. Support Vecto
 
 ## 12. Author
 
-Name: Your Name  
+Name: Plaban Sarkar
 Course: Bachelor of Computer Applications (BCA)  
 Subject: Machine Learning  
 Project: Titanic Survival Prediction
